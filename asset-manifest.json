@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AcademiaTreino/static/css/main.0ea2200a.chunk.css",
+    "main.js": "/AcademiaTreino/static/js/main.f9aca802.chunk.js",
+    "main.js.map": "/AcademiaTreino/static/js/main.f9aca802.chunk.js.map",
+    "runtime-main.js": "/AcademiaTreino/static/js/runtime-main.1ba0d91d.js",
+    "runtime-main.js.map": "/AcademiaTreino/static/js/runtime-main.1ba0d91d.js.map",
+    "static/js/2.2b4cb7ed.chunk.js": "/AcademiaTreino/static/js/2.2b4cb7ed.chunk.js",
+    "static/js/2.2b4cb7ed.chunk.js.map": "/AcademiaTreino/static/js/2.2b4cb7ed.chunk.js.map",
+    "index.html": "/AcademiaTreino/index.html",
+    "precache-manifest.6e2a7122c6e0a5cfbbbbdcd677d9184b.js": "/AcademiaTreino/precache-manifest.6e2a7122c6e0a5cfbbbbdcd677d9184b.js",
+    "service-worker.js": "/AcademiaTreino/service-worker.js",
+    "static/css/main.0ea2200a.chunk.css.map": "/AcademiaTreino/static/css/main.0ea2200a.chunk.css.map",
+    "static/media/img.png": "/AcademiaTreino/static/media/img.2b178f23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba0d91d.js",
+    "static/js/2.2b4cb7ed.chunk.js",
+    "static/css/main.0ea2200a.chunk.css",
+    "static/js/main.f9aca802.chunk.js"
+  ]
+}
